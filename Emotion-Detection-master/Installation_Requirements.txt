@@ -1,0 +1,12 @@
+install keras
+install tensorflow*
+install cuda*
+
+
+*There is a specific installation process for this
+
+
+==https://www.youtube.com/watch?v=PulKlAZRoAY&ab_channel=PyPowerProjects==
+
+
+
